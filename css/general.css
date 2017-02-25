@@ -1,0 +1,15 @@
+html {
+    font-family: Arial, serif;
+}
+
+.index-a {
+    margin-left: 10px;
+    text-decoration: underline;
+    color: black;
+}
+
+#main-page-graphic {
+    margin-top: 30px;
+    height: 400px;
+    width: auto;
+}
